@@ -4,6 +4,10 @@
   overflow: hidden;
 }
 
+body {
+  color: black;
+}
+
 /* Style the links inside the navigation bar */
 .top-nav a {
   float: left;
@@ -18,7 +22,6 @@
 
 /* Add an active class to highlight the current page */
 .top-nav a.active {
-  background-color: #83A59F;
   color: #E6E4DC;
 }
 
