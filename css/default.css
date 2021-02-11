@@ -35,8 +35,8 @@
 @media screen and (max-width: 600px) {
   .top-nav a:not(:first-child) {display: none;}
   .top-nav a.icon {
-    float: right;
-    display: block;
+    justify-self: right;
+    display: flex;
   }
 }
 
